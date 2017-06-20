@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding = 'UTF-8' ?>
+<toc version="1.0">
+	<tocitem text="Bienvenida" target="Bienvenida"/>
+	<tocitem text="Instrucciones y historia del juego" >
+		<tocitem text="Historia del juego" target="Historia"/>
+		<tocitem text="Instrucciones del juego" target="Instrucciones"/>
+	</tocitem>
+	<tocitem text="Datos del autor" target="Datos"/>
+</toc>

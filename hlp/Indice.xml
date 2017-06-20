@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding = 'UTF-8' ?>
+<index version="1.0">
+	<indexitem text="Inicio">
+		<indexitem text="Bienvenida" target="Bienvenida"/>
+	</indexitem>
+	<indexitem text="Instrucciones">
+		<indexitem text="Historia del juego" target="Historia" />
+		<indexitem text="Instrucciones del juego" target="Instrucciones"/>
+		<indexitem text="Datos del autor" target="Datos" />
+	</indexitem>
+	<indexitem text="Referencia">
+		<indexitem text="Datos del autor" target="Datos"/>
+	</indexitem>
+</index>
